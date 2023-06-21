@@ -4,140 +4,162 @@
         "Author": "Antoine de Saint-Exupéry",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
       },
       {
         "Title": "Charlie y la fábrica de chocolate",
         "Author": "Roald Dahl",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
       },
       {
         "Title": "Alicia en el país de las maravillas",
         "Author": "Lewis Carroll",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
       },
       {
         "Title": "Matilda",
         "Author": "Roald Dahl",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Aventura"
       },
       {
         "Title": "El libro de la selva",
         "Author": "Rudyard Kipling",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Aventura"
       },
       {
         "Title": "Harry Potter y la piedra filosofal",
         "Author": "J.K. Rowling",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "Cuentos de Hans Christian Andersen",
         "Author": "Hans Christian Andersen",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Misterio"
       },
       {
         "Title": "Las crónicas de Narnia: El león, la bruja y el armario",
         "Author": "C.S. Lewis",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
       },
       {
         "Title": "Donde viven los monstruos",
         "Author": "Maurice Sendak",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Misterio"
       },
       {
         "Title": "El gato en el sombrero",
         "Author": "Dr. Seuss",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
       },
       {
         "Title": "Caperucita Roja",
         "Author": "Charles Perrault",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "El patito feo",
         "Author": "Hans Christian Andersen",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "El Grúfalo",
         "Author": "Julia Donaldson",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
+        
       },
       {
         "Title": "La telaraña de Carlota",
         "Author": "E.B. White",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Aventura"
       },
       {
         "Title": "El libro de los tres cerditos",
         "Author": "James Marshall",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "El mago de Oz",
         "Author": "L. Frank Baum",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "La historia interminable",
         "Author": "Michael Ende",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Fantasía"
       },
       {
         "Title": "Pippi Calzaslargas",
         "Author": "Astrid Lindgren",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Aventura"
       },
       {
         "Title": "El principito y el zorro",
         "Author": "Antoine de Saint-Exupéry",
         "Language": "Español",
         "Age Rating": "Infantil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Ciencia ficción"
+        
       },
       {
         "Title": "El secreto del jardín",
         "Author": "Frances Hodgson Burnett",
         "Language": "Español",
         "Age Rating": "Juvenil",
-        "State": "Disponible"
+        "State": "Disponible",
+        "Category": "Aventura"
       }
 ]
   
