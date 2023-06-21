@@ -1,0 +1,170 @@
+[
+    {
+      "Title": "Harry Potter y la piedra filosofal",
+      "Author": "J.K. Rowling",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Los juegos del hambre",
+      "Author": "Suzanne Collins",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "Cazadores de sombras: Ciudad de hueso",
+      "Author": "Cassandra Clare",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Divergente",
+      "Author": "Veronica Roth",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "El corredor del laberinto",
+      "Author": "James Dashner",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "Bajo la misma estrella",
+      "Author": "John Green",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "Ciudades de papel",
+      "Author": "John Green",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "Crepúsculo",
+      "Author": "Stephenie Meyer",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Romance"
+    },
+    {
+      "Title": "El alquimista",
+      "Author": "Paulo Coelho",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "El nombre del viento",
+      "Author": "Patrick Rothfuss",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Cazadores de sombras: Ciudad de ceniza",
+      "Author": "Cassandra Clare",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Bajo la misma estrella",
+      "Author": "John Green",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "Los juegos del hambre: En llamas",
+      "Author": "Suzanne Collins",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "La selección",
+      "Author": "Kiera Cass",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Romance"
+    },
+    {
+      "Title": "El sobrino del mago",
+      "Author": "C.S. Lewis",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Cazadores de sombras: Ciudad de cristal",
+      "Author": "Cassandra Clare",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "El hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "Crepúsculo: Luna nueva",
+      "Author": "Stephenie Meyer",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Romance"
+    },
+    {
+      "Title": "Cazadores de sombras: Ciudad de cristal",
+      "Author": "Cassandra Clare",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "El alquimista",
+      "Author": "Paulo Coelho",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "El nombre del viento",
+      "Author": "Patrick Rothfuss",
+      "Language": "Español",
+      "Age Rating": "Juvenil",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    }
+  ]
