@@ -1,0 +1,170 @@
+[
+    {
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "Cien años de soledad",
+      "Author": "Gabriel García Márquez",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "El gran Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "Matar a un ruiseñor",
+      "Author": "Harper Lee",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "El guardián entre el centeno",
+      "Author": "J.D. Salinger",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "Orgullo y prejuicio",
+      "Author": "Jane Austen",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Romance"
+    },
+    {
+      "Title": "Crónica de una muerte anunciada",
+      "Author": "Gabriel García Márquez",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "El código Da Vinci",
+      "Author": "Dan Brown",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Misterio"
+    },
+    {
+      "Title": "La sombra del viento",
+      "Author": "Carlos Ruiz Zafón",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Misterio"
+    },
+    {
+      "Title": "Los pilares de la Tierra",
+      "Author": "Ken Follett",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Novela"
+    },
+    {
+      "Title": "Don Quijote de la Mancha",
+      "Author": "Miguel de Cervantes Saavedra",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Novela"
+    },
+    {
+      "Title": "Mujercitas",
+      "Author": "Louisa May Alcott",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "El perfume",
+      "Author": "Patrick Süskind",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Ciencia ficción"
+    },
+    {
+      "Title": "El retrato de Dorian Gray",
+      "Author": "Oscar Wilde",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "La catedral del mar",
+      "Author": "Ildefonso Falcones",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Aventura"
+    },
+    {
+      "Title": "La hoguera de las vanidades",
+      "Author": "Tom Wolfe",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Comedia"
+    },
+    {
+      "Title": "Los hombres que no amaban a las mujeres",
+      "Author": "Stieg Larsson",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Misterio"
+    },
+    {
+      "Title": "La ladrona de libros",
+      "Author": "Markus Zusak",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Drama"
+    },
+    {
+      "Title": "El médico",
+      "Author": "Noah Gordon",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Novela"
+    },
+    {
+      "Title": "El nombre del viento",
+      "Author": "Patrick Rothfuss",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Fantasía"
+    },
+    {
+      "Title": "La chica del tren",
+      "Author": "Paula Hawkins",
+      "Language": "Español",
+      "Age Rating": "Adulto",
+      "State": "Disponible",
+      "Category": "Novela"
+    }
+  ]
