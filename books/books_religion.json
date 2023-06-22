@@ -1,0 +1,84 @@
+[
+      {
+        "Title": "La Biblia",
+        "Author": "Varios autores",
+        "Language": "Español",
+        "Age Rating": "Todos los públicos",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "El Corán",
+        "Author": "Varios autores",
+        "Language": "Español",
+        "Age Rating": "Todos los públicos",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "El Tao de la física",
+        "Author": "Fritjof Capra",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "Bhagavad Gita",
+        "Author": "Varios autores",
+        "Language": "Español",
+        "Age Rating": "Todos los públicos",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "Místicos de Oriente",
+        "Author": "Eva de Vitray-Meyerovitch",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "Historia de la filosofía",
+        "Author": "Frederick Copleston",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "El libro tibetano de los muertos",
+        "Author": "Varios autores",
+        "Language": "Español",
+        "Age Rating": "Todos los públicos",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "La sabiduría de Buda",
+        "Author": "Anne Bancroft",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "Confesiones",
+        "Author": "San Agustín",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      },
+      {
+        "Title": "El poder del ahora",
+        "Author": "Eckhart Tolle",
+        "Language": "Español",
+        "Age Rating": "Adulto",
+        "State": "Disponible",
+        "Category": "Religión"
+      }
+    ]
+  
+  

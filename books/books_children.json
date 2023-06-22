@@ -11,7 +11,7 @@
         "Title": "Charlie y la fábrica de chocolate",
         "Author": "Roald Dahl",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Ciencia ficción"
       },
@@ -27,7 +27,7 @@
         "Title": "Matilda",
         "Author": "Roald Dahl",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Aventura"
       },
@@ -59,7 +59,7 @@
         "Title": "Las crónicas de Narnia: El león, la bruja y el armario",
         "Author": "C.S. Lewis",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Ciencia ficción"
       },
@@ -132,7 +132,7 @@
         "Title": "La historia interminable",
         "Author": "Michael Ende",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Fantasía"
       },
@@ -140,7 +140,7 @@
         "Title": "Pippi Calzaslargas",
         "Author": "Astrid Lindgren",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Aventura"
       },
@@ -157,7 +157,7 @@
         "Title": "El secreto del jardín",
         "Author": "Frances Hodgson Burnett",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "Age Rating": "Infantil",
         "State": "Disponible",
         "Category": "Aventura"
       }
