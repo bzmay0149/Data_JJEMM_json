@@ -1,0 +1,362 @@
+[
+    {
+      "Title": "El código Da Vinci",
+      "Composer": "Hans Zimmer",
+      "Record Company": "Decca Records",
+      "State": "Disponible"
+    },
+    {
+      "Title": "Harry Potter y la piedra filosofal",
+      "Composer": "John Williams",
+      "Record Company": "Warner Bros. Records",
+      "State": "Disponible"
+    },
+    {
+      "Title": "Cien años de soledad",
+      "Composer": "Gustavo Santaolalla",
+      "Record Company": "Sony Classical",
+      "State": "Disponible"
+    },
+    {
+      "Title": "La ladrona de libros",
+      "Composer": "John Williams",
+      "Record Company": "Sony Classical",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El nombre del viento",
+      "Composer": "Patrick Rothfuss",
+      "Record Company": "WaterTower Music",
+      "State": "Disponible"
+    },
+    {
+      "Title": "La sombra del viento",
+      "Composer": "Alberto Iglesias",
+      "Record Company": "Sony Classical",
+      "State": "Disponible"
+    },
+    {
+      "Title": "Los juegos del hambre",
+      "Composer": "James Newton Howard",
+      "Record Company": "Universal Republic",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El hobbit: Un viaje inesperado",
+      "Composer": "Howard Shore",
+      "Record Company": "WaterTower Music",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El laberinto de los espíritus",
+      "Composer": "Alberto Iglesias",
+      "Record Company": "Sony Classical",
+      "State": "Disponible"
+    },
+    {
+      "Title": "Cazadores de sombras: Ciudad de hueso",
+      "Composer": "Atli Örvarsson",
+      "Record Company": "Milan Records",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El perfume: Historia de un asesino",
+      "Composer": "Reinhold Heil, Johnny Klimek, Tom Tykwer",
+      "Record Company": "EMI Classics",
+      "State": "Disponible"
+    },
+    {
+      "Title": "La chica del tren",
+      "Composer": "Danny Elfman",
+      "Record Company": "Sony Classical",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El alquimista",
+      "Composer": "Alan Silvestri",
+      "Record Company": "Decca Records",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El lector",
+      "Composer": "Nico Muhly",
+      "Record Company": "Deutsche Grammophon",
+      "State": "Disponible"
+    },
+    {
+      "Title": "El señor de los anillos: La comunidad del anillo",
+      "Composer": "Howard Shore",
+      "Record Company": "Reprise Records",
+      "State": "Disponible"
+    },
+    {
+        "Title": "El gran Gatsby",
+        "Composer": "Craig Armstrong",
+        "Record Company": "Interscope Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Los juegos del hambre: En llamas",
+        "Composer": "James Newton Howard",
+        "Record Company": "Republic Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Orgullo y prejuicio",
+        "Composer": "Dario Marianelli",
+        "Record Company": "Decca Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La chica con el tatuaje del dragón",
+        "Composer": "Trent Reznor, Atticus Ross",
+        "Record Company": "Null Corporation",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Crónicas de Narnia: El león, la bruja y el armario",
+        "Composer": "Harry Gregson-Williams",
+        "Record Company": "Walt Disney Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Las ventajas de ser un marginado",
+        "Composer": "Michael Brook",
+        "Record Company": "Atlantic Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La saga Crepúsculo: Amanecer - Parte 1",
+        "Composer": "Carter Burwell",
+        "Record Company": "Atlantic Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Divergente",
+        "Composer": "Junkie XL",
+        "Record Company": "Interscope Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El niño con el pijama de rayas",
+        "Composer": "James Horner",
+        "Record Company": "Varèse Sarabande",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Matar a un ruiseñor",
+        "Composer": "Elmer Bernstein",
+        "Record Company": "Universal Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La ladrona de libros",
+        "Composer": "John Williams",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La sombra del viento",
+        "Composer": "Alberto Iglesias",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El amor en los tiempos del cólera",
+        "Composer": "Antonio Pinto",
+        "Record Company": "New Line Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El club de la lucha",
+        "Composer": "Dust Brothers",
+        "Record Company": "EMI",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El atlas de las nubes",
+        "Composer": "Tom Tykwer, Johnny Klimek, Reinhold Heil",
+        "Record Company": "WaterTower Music",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El cazador de sueños",
+        "Composer": "James Newton Howard",
+        "Record Company": "Varèse Sarabande",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El corredor del laberinto",
+        "Composer": "John Paesano",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El cuaderno de Noah",
+        "Composer": "Aaron Zigman",
+        "Record Company": "New Line Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El gran gigante bonachón",
+        "Composer": "John Williams",
+        "Record Company": "Walt Disney Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El gran hotel Budapest",
+        "Composer": "Alexandre Desplat",
+        "Record Company": "ABKCO Music & Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El nombre de la rosa",
+        "Composer": "James Horner",
+        "Record Company": "Virgin Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El paciente inglés",
+        "Composer": "Gabriel Yared",
+        "Record Company": "Decca Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El perfume: Historia de un asesino",
+        "Composer": "Reinhold Heil, Johnny Klimek, Tom Tykwer",
+        "Record Company": "EMI Classics",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El resplandor",
+        "Composer": "Wendy Carlos, Rachel Elkind",
+        "Record Company": "Warner Bros. Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El libro de la selva",
+        "Composer": "John Debney",
+        "Record Company": "Walt Disney Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El último mohicano",
+        "Composer": "Trevor Jones, Randy Edelman",
+        "Record Company": "Morgan Creek Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El juego de Ender",
+        "Composer": "Steve Jablonsky",
+        "Record Company": "Varese Sarabande",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El león, la bruja y el armario",
+        "Composer": "Harry Gregson-Williams",
+        "Record Company": "Walt Disney Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El origen de los guardianes",
+        "Composer": "Alexandre Desplat",
+        "Record Company": "Varèse Sarabande",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Matilda",
+        "Composer": "David Newman",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Charlie y la fábrica de chocolate",
+        "Composer": "Danny Elfman",
+        "Record Company": "Warner Bros. Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El Grinch",
+        "Composer": "James Horner",
+        "Record Company": "Interscope Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Las crónicas de Spiderwick",
+        "Composer": "James Horner",
+        "Record Company": "Lakeshore Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Stuart Little",
+        "Composer": "Alan Silvestri",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La telaraña de Charlotte",
+        "Composer": "Danny Elfman",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El libro de la vida",
+        "Composer": "Gustavo Santaolalla",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Los mundos de Coraline",
+        "Composer": "Bruno Coulais",
+        "Record Company": "Lakeshore Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El principito",
+        "Composer": "Hans Zimmer, Richard Harvey",
+        "Record Company": "WaterTower Music",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El libro de la selva",
+        "Composer": "John Debney",
+        "Record Company": "Walt Disney Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Cómo entrenar a tu dragón",
+        "Composer": "John Powell",
+        "Record Company": "Varèse Sarabande",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Paddington",
+        "Composer": "Nick Urata",
+        "Record Company": "Decca Records",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La historia interminable",
+        "Composer": "Klaus Doldinger, Giorgio Moroder",
+        "Record Company": "WEA",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El gato con botas",
+        "Composer": "Henry Jackman",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La oveja Shaun: La película",
+        "Composer": "Ilan Eshkeri",
+        "Record Company": "Sony Classical",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El viaje de Chihiro",
+        "Composer": "Joe Hisaishi",
+        "Record Company": "Tokuma Japan Communications",
+        "State": "Disponible"
+      }
+]
