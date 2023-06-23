@@ -1,0 +1,164 @@
+[
+      {
+        "Title": "El Padrino",
+        "Director": "Francis Ford Coppola",
+        "Year": 1972,
+        "Category": "Drama",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El Señor de los Anillos: La Comunidad del Anillo",
+        "Director": "Peter Jackson",
+        "Year": 2001,
+        "Category": "Fantasía",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Harry Potter y la Piedra Filosofal",
+        "Director": "Chris Columbus",
+        "Year": 2001,
+        "Category": "Fantasía",
+        "AgeRating": "Infantil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "La naranja mecánica",
+        "Director": "Stanley Kubrick",
+        "Year": 1971,
+        "Category": "Ciencia ficción",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Jurassic Park",
+        "Director": "Steven Spielberg",
+        "Year": 1993,
+        "Category": "Ciencia ficción",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El gran Gatsby",
+        "Director": "Baz Luhrmann",
+        "Year": 2013,
+        "Category": "Drama",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Orgullo y prejuicio",
+        "Director": "Joe Wright",
+        "Year": 2005,
+        "Category": "Romance",
+        "AgeRating": "Infantil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El silencio de los corderos",
+        "Director": "Jonathan Demme",
+        "Year": 1991,
+        "Category": "Thriller",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Forrest Gump",
+        "Director": "Robert Zemeckis",
+        "Year": 1994,
+        "Category": "Drama",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Crepúsculo",
+        "Director": "Catherine Hardwicke",
+        "Year": 2008,
+        "Category": "Fantasía",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El nombre de la rosa",
+        "Director": "Jean-Jacques Annaud",
+        "Year": 1986,
+        "Category": "Misterio",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Los juegos del hambre",
+        "Director": "Gary Ross",
+        "Year": 2012,
+        "Category": "Ciencia ficción",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El club de la pelea",
+        "Director": "David Fincher",
+        "Year": 1999,
+        "Category": "Drama",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El resplandor",
+        "Director": "Stanley Kubrick",
+        "Year": 1980,
+        "Category": "Terror",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El diario de Bridget Jones",
+        "Director": "Sharon Maguire",
+        "Year": 2001,
+        "Category": "Comedia",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Matar a un ruiseñor",
+        "Director": "Robert Mulligan",
+        "Year": 1962,
+        "Category": "Drama",
+        "AgeRating": "Infantil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Las ventajas de ser un marginado",
+        "Director": "Stephen Chbosky",
+        "Year": 2012,
+        "Category": "Romance",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El curioso caso de Benjamin Button",
+        "Director": "David Fincher",
+        "Year": 2008,
+        "Category": "Romance",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "El código Da Vinci",
+        "Director": "Ron Howard",
+        "Year": 2006,
+        "Category": "Misterio",
+        "AgeRating": "Juvenil",
+        "State": "Disponible"
+      },
+      {
+        "Title": "Los hombres que no amaban a las mujeres",
+        "Director": "David Fincher",
+        "Year": 2011,
+        "Category": "Misterio",
+        "AgeRating": "Adulto",
+        "State": "Disponible"
+      }
+    ]
+  
+  
