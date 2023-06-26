@@ -3,7 +3,7 @@
         "Title": "Drácula",
         "Author": "Bram Stoker",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -11,7 +11,7 @@
         "Title": "Frankenstein",
         "Author": "Mary Shelley",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -19,7 +19,7 @@
         "Title": "El resplandor",
         "Author": "Stephen King",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -27,7 +27,7 @@
         "Title": "It",
         "Author": "Stephen King",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -35,7 +35,7 @@
         "Title": "La llamada de Cthulhu y otros cuentos",
         "Author": "H.P. Lovecraft",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -43,7 +43,7 @@
         "Title": "El exorcista",
         "Author": "William Peter Blatty",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -51,7 +51,7 @@
         "Title": "Psicosis",
         "Author": "Robert Bloch",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -59,7 +59,7 @@
         "Title": "Coraline",
         "Author": "Neil Gaiman",
         "Language": "Español",
-        "Age Rating": "Jóvenes",
+        "AgeRating": "Jóvenes",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -67,7 +67,7 @@
         "Title": "El retrato de Dorian Gray",
         "Author": "Oscar Wilde",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -75,7 +75,7 @@
         "Title": "El silencio de los corderos",
         "Author": "Thomas Harris",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -83,7 +83,7 @@
         "Title": "Pet Sematary",
         "Author": "Stephen King",
         "Language": "Inglés",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -91,7 +91,7 @@
         "Title": "El perfume",
         "Author": "Patrick Süskind",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -99,7 +99,7 @@
         "Title": "Misery",
         "Author": "Stephen King",
         "Language": "Inglés",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -107,7 +107,7 @@
         "Title": "El extraño caso del Dr. Jekyll y Mr. Hyde",
         "Author": "Robert Louis Stevenson",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -115,7 +115,7 @@
         "Title": "Carrie",
         "Author": "Stephen King",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -123,7 +123,7 @@
         "Title": "La carretera",
         "Author": "Cormac McCarthy",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -131,7 +131,7 @@
         "Title": "El corazón delator y otros cuentos",
         "Author": "Edgar Allan Poe",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -139,7 +139,7 @@
         "Title": "American Psycho",
         "Author": "Bret Easton Ellis",
         "Language": "Inglés",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -147,7 +147,7 @@
         "Title": "El nombre de la rosa",
         "Author": "Umberto Eco",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       },
@@ -155,7 +155,7 @@
         "Title": "Entrevista con el vampiro",
         "Author": "Anne Rice",
         "Language": "Español",
-        "Age Rating": "Adultos",
+        "AgeRating": "Adultos",
         "State": "Disponible",
         "Category": "Terror"
       }

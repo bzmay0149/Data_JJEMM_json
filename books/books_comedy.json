@@ -3,7 +3,7 @@
         "Title": "Memorias de un amante sarnoso",
         "Author": "Groucho Marx",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -11,7 +11,7 @@
         "Title": "La taberna errante",
         "Author": "Álvaro Cunqueiro",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -19,7 +19,7 @@
         "Title": "Mi familia y otros animales",
         "Author": "Gerald Durrell",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -27,7 +27,7 @@
         "Title": "¡Noticia bomba!",
         "Author": "Terry Pratchett",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "AgeRating": "Juvenil",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -43,7 +43,7 @@
         "Title": "El inimitable Jeeves",
         "Author": "P.G. Wodehouse",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "AgeRating": "Juvenil",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -51,7 +51,7 @@
         "Title": "Sin noticias de Gurb",
         "Author": "Eduardo Mendoza",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -59,7 +59,7 @@
         "Title": "La conjura de los necios",
         "Author": "John Kennedy Toole",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -67,7 +67,7 @@
         "Title": "El enfermo imaginario",
         "Author": "Molière",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -75,7 +75,7 @@
         "Title": "Maldito karma",
         "Author": "David Safier",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "AgeRating": "Juvenil",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -91,7 +91,7 @@
         "Title": "Un yanki en la corte del Rey Arturo",
         "Author": "Mark Twain",
         "Language": "Español",
-        "Age Rating": "Juvenil",
+        "AgeRating": "Juvenil",
         "State": "Disponible",
         "Category": "Comedia"
       },
@@ -107,7 +107,7 @@
         "Title": "El abuelo que saltó por la ventana y se largó",
         "Author": "Jonas Jonasson",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Comedia"
       }

@@ -3,7 +3,7 @@
         "Title": "La Biblia",
         "Author": "Varios autores",
         "Language": "Español",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -11,7 +11,7 @@
         "Title": "El Corán",
         "Author": "Varios autores",
         "Language": "Español",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -19,7 +19,7 @@
         "Title": "El Tao de la física",
         "Author": "Fritjof Capra",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -27,7 +27,7 @@
         "Title": "Bhagavad Gita",
         "Author": "Varios autores",
         "Language": "Español",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -35,7 +35,7 @@
         "Title": "Místicos de Oriente",
         "Author": "Eva de Vitray-Meyerovitch",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -43,7 +43,7 @@
         "Title": "Historia de la filosofía",
         "Author": "Frederick Copleston",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -51,7 +51,7 @@
         "Title": "El libro tibetano de los muertos",
         "Author": "Varios autores",
         "Language": "Español",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -59,7 +59,7 @@
         "Title": "La sabiduría de Buda",
         "Author": "Anne Bancroft",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -67,7 +67,7 @@
         "Title": "Confesiones",
         "Author": "San Agustín",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -75,7 +75,7 @@
         "Title": "El poder del ahora",
         "Author": "Eckhart Tolle",
         "Language": "Español",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -83,7 +83,7 @@
         "Title": "La Biblia",
         "Author": "Varios autores",
         "Language": "Ingles",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -91,7 +91,7 @@
         "Title": "El Corán",
         "Author": "Varios autores",
         "Language": "Ingles",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -99,7 +99,7 @@
         "Title": "El Tao de la física",
         "Author": "Fritjof Capra",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -107,7 +107,7 @@
         "Title": "Bhagavad Gita",
         "Author": "Varios autores",
         "Language": "Ingles",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -115,7 +115,7 @@
         "Title": "Místicos de Oriente",
         "Author": "Eva de Vitray-Meyerovitch",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -123,7 +123,7 @@
         "Title": "Historia de la filosofía",
         "Author": "Frederick Copleston",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -131,7 +131,7 @@
         "Title": "El libro tibetano de los muertos",
         "Author": "Varios autores",
         "Language": "Ingles",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -139,7 +139,7 @@
         "Title": "La sabiduría de Buda",
         "Author": "Anne Bancroft",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -147,7 +147,7 @@
         "Title": "Confesiones",
         "Author": "San Agustín",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -155,7 +155,7 @@
         "Title": "El poder del ahora",
         "Author": "Eckhart Tolle",
         "Language": "Ingles",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -163,7 +163,7 @@
         "Title": "La Biblia",
         "Author": "Varios autores",
         "Language": "Frances",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -171,7 +171,7 @@
         "Title": "El Corán",
         "Author": "Varios autores",
         "Language": "Frances",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -179,7 +179,7 @@
         "Title": "El Tao de la física",
         "Author": "Fritjof Capra",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -187,7 +187,7 @@
         "Title": "Bhagavad Gita",
         "Author": "Varios autores",
         "Language": "Frances",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -195,7 +195,7 @@
         "Title": "Místicos de Oriente",
         "Author": "Eva de Vitray-Meyerovitch",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -203,7 +203,7 @@
         "Title": "Historia de la filosofía",
         "Author": "Frederick Copleston",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -211,7 +211,7 @@
         "Title": "El libro tibetano de los muertos",
         "Author": "Varios autores",
         "Language": "Frances",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -219,7 +219,7 @@
         "Title": "La sabiduría de Buda",
         "Author": "Anne Bancroft",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -227,7 +227,7 @@
         "Title": "Confesiones",
         "Author": "San Agustín",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -235,23 +235,23 @@
         "Title": "El poder del ahora",
         "Author": "Eckhart Tolle",
         "Language": "Frances",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
       {
         "Title": "La Biblia",
         "Author": "Varios autores",
-        "Language": "English",
-        "Age Rating": "Todos los públicos",
+        "Language": "Italiano",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
       {
         "Title": "El Corán",
         "Author": "Varios autores",
-        "Language": "English",
-        "Age Rating": "Todos los públicos",
+        "Language": "Italiano",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -259,7 +259,7 @@
         "Title": "El Tao de la física",
         "Author": "Fritjof Capra",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -267,7 +267,7 @@
         "Title": "Bhagavad Gita",
         "Author": "Varios autores",
         "Language": "Italiano",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -275,7 +275,7 @@
         "Title": "Místicos de Oriente",
         "Author": "Eva de Vitray-Meyerovitch",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -283,7 +283,7 @@
         "Title": "Historia de la filosofía",
         "Author": "Frederick Copleston",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -291,7 +291,7 @@
         "Title": "El libro tibetano de los muertos",
         "Author": "Varios autores",
         "Language": "Italiano",
-        "Age Rating": "Todos los públicos",
+        "AgeRating": "Todos los públicos",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -299,7 +299,7 @@
         "Title": "La sabiduría de Buda",
         "Author": "Anne Bancroft",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -307,7 +307,7 @@
         "Title": "Confesiones",
         "Author": "San Agustín",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       },
@@ -315,7 +315,7 @@
         "Title": "El poder del ahora",
         "Author": "Eckhart Tolle",
         "Language": "Italiano",
-        "Age Rating": "Adulto",
+        "AgeRating": "Adulto",
         "State": "Disponible",
         "Category": "Religión"
       }
